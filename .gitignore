@@ -12,7 +12,8 @@ share/
 
 pyvenv.cfg
 *.code-workspace
-log
+log/
+tmp/
 
 # C extensions
 *.so

@@ -1,0 +1,14 @@
+GeoAlchemy2
+geojson
+geopandas
+geoplot
+mysql-connector-python
+mysqlclient
+numpy
+pandas
+postcodes-io-api
+python-dateutil
+python-dotenv
+regex
+requests
+SQLAlchemy
